@@ -1,7 +1,6 @@
 # 🩺 Med Tracker
 
 **Med Tracker** is a modern and responsive web app built to help users manage their medications, health records, diet routines, and prescriptions — all in one place.
-
 ## 🚀 Features
 
 - 💊 Medicine Reminders and Schedule Management  
@@ -26,5 +25,11 @@
 | Charts           | Recharts, Date-fns                  |
 | Type Checking    | TypeScript                          |
 | Hosting          | Vercel (Recommended)                |
+
+Project link - (https://v0-medication-reminder-app-eta.vercel.app/)
+Made by:-
+Varsha Rani -2401010145
+Harmanpreet kaur-2401010007
+krishna gaur -2401010004
 
 
